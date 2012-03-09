@@ -20,8 +20,9 @@ It can be used standalone or with other testing frameworks like SenTestingKit or
 
 ## Install (Docset)
 
-- Open Xcode, Preferences and select the Documentation tab.
+- Open Xcode, Preferences, select the Downloads tab and then the Documentation button.
 - Select the plus icon (bottom left) and specify: `http://gabriel.github.com/gh-unit/publish/me.rel.GHUnit.atom`
+- Click 'Install' next to `GHUnit Documentation...`
 
 ## Links
 
